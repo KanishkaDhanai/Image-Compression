@@ -1,4 +1,4 @@
-# Image-Compression
+
 # Huffman-Image-Compression
 
 This project implements a simple Huffman encoding and decoding algorithm for compressing and decompressing BMP images using the Python Imaging Library (PIL). The program compresses the RGB channels of an image separately and then reconstructs the image from the compressed data.
